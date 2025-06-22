@@ -38,14 +38,14 @@ It unpacks `.apk` files and scans for secrets using advanced regex patterns — 
     "file": "assets/flutter_assets/.env/.env.prod",
     "type": "Google API Key",
     "matches": [
-      "AIzaSyBvFZf6GFfg9ntDzr4mFQqqJEkhgEzcZzU"
+      "AIzaSyBvFZf6asffafdfdDzr4mFQqqJEkhgEzcZzU"
     ]
   },
   {
     "file": "resources.arsc",
-    "type": "New Relic Key",
+    "type": "New Key",
     "matches": [
-      "AA9088282f705dc0c6a534a45df3a1ee07f16a2cae-NRMA"
+      "AA9088282f705dasfgfgdfa3a1ee07f16a2cae-NRMA"
     ]
   }
 ]
